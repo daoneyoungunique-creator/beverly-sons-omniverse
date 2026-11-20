@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: caave-empire-v4
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false
+      - key: BASE44_API_KEY
+        sync: false
+      - key: CAAVE_ADMIN_TOKEN
+        sync: false
+      - key: CAAVE_SUCCESS_URL
+        sync: false
+      - key: CAAVE_CANCEL_URL
+        sync: false

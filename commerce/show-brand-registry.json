@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "parent": "Beverly & Sons Marketing and Consulting LLC",
+  "store": "beverlyandsons.com",
+  "status": "collections_created_product_delivery_unverified",
+  "policy": {
+    "oneStore": true,
+    "uniqueBrandIdentity": true,
+    "sourceOfTruth": "Shopify",
+    "productPublication": "review_and_verified_download_required",
+    "defaultDigitalOnly": true,
+    "analytics": "UTM per brand and episode",
+    "noAutoAdsSpend": true
+  },
+  "brands": [
+    {
+      "slug": "caave-music",
+      "name": "CAAVE MUSIC",
+      "kind": "music",
+      "offers": "Albums, lyric workbooks, visualizers, music learning",
+      "palette": "Gold / obsidian / cyan",
+      "shopifyTag": "brand:caave-music",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "dee-z-comedy",
+      "name": "DEE-Z Comedy Cave",
+      "kind": "comedy",
+      "offers": "Episodes, stand-up quote art, comedy activity books",
+      "palette": "Purple / black / gold",
+      "shopifyTag": "brand:dee-z-comedy",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "radicalized",
+      "name": "RADICALIZED",
+      "kind": "animation",
+      "offers": "Comics Part 1 & Part 2, character packs, media literacy lessons",
+      "palette": "Cyberpunk crimson / cyan / charcoal",
+      "shopifyTag": "brand:radicalized",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "wisdom-warriors",
+      "name": "Wisdom Warriors",
+      "kind": "animation",
+      "offers": "Comics, character guides, printable learning adventures",
+      "palette": "Royal blue / gold",
+      "shopifyTag": "brand:wisdom-warriors",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "amulet-kids",
+      "name": "The Amulet Kids",
+      "kind": "kids",
+      "offers": "Storybooks, coloring books, puzzles, guardian merch",
+      "palette": "Bright jewel tones / gold",
+      "shopifyTag": "brand:amulet-kids",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "caave-daily-keys",
+      "name": "CAAVE Daily Keys",
+      "kind": "daily education",
+      "offers": "Numbered art, Supreme Math lessons, coloring volumes",
+      "palette": "Obsidian / gold / cyan",
+      "shopifyTag": "brand:caave-daily-keys",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "united-conditioning",
+      "name": "UNITED CONDITIONING",
+      "kind": "fashion",
+      "offers": "Digital apparel art, lookbooks, music-linked merch",
+      "palette": "Black / gold / emerald",
+      "shopifyTag": "brand:united-conditioning",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "nitorxive-ruins",
+      "name": "NI^TOR×IVE RU÷INS",
+      "kind": "action animation",
+      "offers": "Battle comics, character dossiers, game guides",
+      "palette": "Electric blue / red / black",
+      "shopifyTag": "brand:nitorxive-ruins",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "caave-academy",
+      "name": "CAAVE Academy",
+      "kind": "education",
+      "offers": "Courses, youth worksheets, curriculum",
+      "palette": "Navy / gold / tan",
+      "shopifyTag": "brand:caave-academy",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "beverly-method",
+      "name": "The Beverly Method",
+      "kind": "education",
+      "offers": "Books, workbooks, teaching systems",
+      "palette": "Navy / gold / tan",
+      "shopifyTag": "brand:beverly-method",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "god-arena",
+      "name": "God Arena",
+      "kind": "fantasy",
+      "offers": "Books, comics, lore cards, character learning",
+      "palette": "Ancient gold / purple / black",
+      "shopifyTag": "brand:god-arena",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    },
+    {
+      "slug": "beverly-method-podcast",
+      "name": "The Beverly Method Podcast",
+      "kind": "podcast",
+      "offers": "Episodes, companion workbooks, show merch",
+      "palette": "Navy / gold",
+      "shopifyTag": "brand:beverly-method-podcast",
+      "collectionStatus": "created",
+      "lessonStructure": [
+        "observation",
+        "analysis",
+        "creation",
+        "reflection",
+        "action"
+      ],
+      "episodeProductWorkflow": [
+        "script_and_art",
+        "lesson",
+        "digital_product_draft",
+        "quality_and_rights_review",
+        "file_upload_and_test",
+        "publish",
+        "tracked_social_campaign"
+      ],
+      "assetsNeeded": [
+        "logo",
+        "banner",
+        "show_art",
+        "character_reference",
+        "lesson_template",
+        "product_cover",
+        "approved_download",
+        "promo_assets"
+      ],
+      "status": "product_pipeline_pending"
+    }
+  ]
+}

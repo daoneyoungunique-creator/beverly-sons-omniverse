@@ -1,8 +1,9 @@
 import os
 import sys
+import tempfile
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
-os.environ["CAAVE_V4_DB"]=":memory:"
+os.environ["CAAVE_V4_DB"]=str(Path(tempfile.mkdtemp()) / "test_caave.db")
 from fastapi.testclient import TestClient
 from api import app
 from main import split_cents

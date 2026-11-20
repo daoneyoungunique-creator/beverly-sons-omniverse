@@ -1,5 +1,5 @@
 # THE 147 CODEX™ — Trinity Path Cosmology
-Status: USER-SUPPLIED IP DIRECTION · Canon integration draft v1.0
+Status: APPROVED CANON — mathematical node indexing v1.1 (2026-11-20)
 Owner: Beverly & Sons Marketing and Consulting LLC
 Universe: Trinity Path / CAAVE Omniverse
 Date recorded: 2026-11-19
@@ -61,16 +61,16 @@ Every node contains:
 - Practice
 - Mastery state
 
-**Canonical machine indexing proposed:** 0-based indices for each dimension, ID = chakra_index*21 + principle_index*3 + dantian_index + 1. Valid IDs are 1–147, with no collisions.
+**Approved canonical machine indexing:** 0-based indices for each dimension, ID = chakra_index*21 + principle_index*3 + dantian_index + 1. Valid IDs are 1–147, with no collisions.
 
-**Example submitted by author (requires reconciliation):**
-Node 84 — Heart + Justice + Middle
+**Approved canonical example:**
+Node 77 — Heart + Justice + Middle
 Lesson: Compassion without boundaries becomes self-sacrifice.
 Practice: Protect others without abandoning yourself.
 Shadow: Martyrdom.
 Mastery: Stewardship.
 
-**Index consistency note:** Under the ordering and formula above, Heart (index 3) + Justice (index 4) + Middle (index 1) resolves to **Node 77**, not 84. Preserve the authored “Node 84” example as a narrative label pending author approval of either the ordering or a custom node-ID mapping. Do not silently rewrite it.
+**Author approval (2026-11-20):** Heart (index 3) + Justice (index 4) + Middle (index 1) is officially **Node 77**. The earlier Node 84 example is superseded; Node 84 remains a valid, different combination under the formula.
 
 ## Character progression
 - Ma'Karu: 32/147 active at start. Focus: survival, discipline, identity.
@@ -106,4 +106,4 @@ Author-supplied examples:
 - Music and podcast content: philosophical interpretation and original narrative storytelling.
 
 ## Publication control
-This document records the author's requested IP direction. Previous unapproved universe bible details remain draft unless explicitly ratified. Do not publish or sell an official Codex reference book before author approval and editorial consistency checks.
+The author approved the mathematical 147-node indexing and the Node 77 correction on 2026-11-20. This approval does not automatically ratify unrelated unapproved universe bible details. Do not publish or sell an official Codex reference book before author approval and editorial consistency checks.

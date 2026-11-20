@@ -1,0 +1,10 @@
+import {strict as assert} from "node:assert";
+import {computeKey,createDraftPipeline,validatePipeline} from "./daily-media-engine.mjs";
+assert.equal(computeKey("147").sum,3);
+assert.equal(computeKey("808").sum,7);
+assert.equal(computeKey("000").sum,0);
+assert.equal(createDraftPipeline("147").stages.length,12);
+assert.equal(createDraftPipeline("147").published,false);
+assert.equal(validatePipeline(createDraftPipeline("147")).valid,false);
+assert.throws(()=>computeKey("hello"));
+console.log("Daily Media Engine core tests passed");
